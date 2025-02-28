@@ -11,3 +11,4 @@ This project is a Semantic Book Recommender that uses Natural Language Processin
 - `books_cleaned.csv`: The cleaned version of the book dataset used for training and predictions.
 - `books_with_categories.csv`: Contains book data with category labels.
 - `books_with_emotions.csv`: Contains book data enriched with emotional sentiment labels.
+- `sentiment-analysis.ipynb`: This Jupyter notebook focuses on sentiment analysis, analyzing the emotional tone of book descriptions to enhance recommendation accuracy.
